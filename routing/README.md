@@ -1,4 +1,5 @@
 # Routing Algorithms
+7 routing algorithms are implemented in paper. 
 
 ## T-B-EU.py
 Binary heuristic routing using Euclidean distance
